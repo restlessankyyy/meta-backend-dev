@@ -1,4 +1,5 @@
-##A history of version control
+## A history of version control
+
 As you know by now, version control is a system that records changes to a file or set of files over time so that you can access specific versions later. In software development, *Version Control Systems (VCS)* allows developers to manage changes to their code and track who made each change. But how did this software come about?
 
 *Version Control* has a long history going back to the 1980s. In fact, version control systems were created before the Internet!
